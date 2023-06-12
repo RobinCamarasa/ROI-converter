@@ -1,4 +1,4 @@
-# ROI parser
+# ROI converter
 
 This script is a rational approach to parse  software [ImageJ](https://imagej.net/software/imagej/). It has been tested on only one specific case of 2D annotations.
 
