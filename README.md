@@ -11,7 +11,7 @@ This script is a rational approach to parse  software [ImageJ](https://imagej.ne
 As the script uses only Python's standard library. The script can be launched as follow:
 
 ```python
-git clone [url] roi_converter
+git clone https://github.com/RobinCamarasa/ROI-converter roi_converter
 cd roi_converter
 python roi_converter.py --roi-file [path-to-roi] --json-file [path-to-the-output-roi-file]
 ```
